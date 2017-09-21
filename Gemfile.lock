@@ -128,11 +128,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bcrypt
   capybara
   data_mapper
   database_cleaner
   dm-postgres-adapter
   pg
+  rake
   rspec
   rubocop
   sinatra

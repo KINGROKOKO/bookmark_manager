@@ -5,6 +5,7 @@ require 'capybara/rspec'
 require './app/models/link'
 require './app/app'
 require 'database_cleaner'
+require_relative 'web_helper'
 
 # require 'simplecov'
 # require 'simplecov-console'
